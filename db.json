@@ -1,13 +1,13 @@
 {
   "kural": [
     {
-      "Number": 1,
+      "id": 1,
       "Line1": "அகர முதல எழுத்தெல்லாம் ஆதி",
       "Line2": "பகவன் முதற்றே உலகு.",
       "Translation": "'A' leads letters; the Ancient Lord Leads and lords the entire world"
 },
     {
-      "Number": 2,
+      "id": 2,
       "Line1": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்",
       "Line2": "நற்றாள் தொழாஅர் எனின்.",
       "Translation": "That lore is vain which does not fall  At His good feet who knoweth all"
